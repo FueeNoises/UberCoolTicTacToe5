@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberCoolTicTacToe5", "UberCoolTicTacToe5.csproj", "{BDB6F495-0F29-412C-B483-16507485DABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB6F495-0F29-412C-B483-16507485DABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB6F495-0F29-412C-B483-16507485DABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB6F495-0F29-412C-B483-16507485DABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB6F495-0F29-412C-B483-16507485DABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB42D85E-2B09-48DE-AF0D-99225DCF4B3D}
+	EndGlobalSection
+EndGlobal
