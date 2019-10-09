@@ -31,7 +31,7 @@ namespace UberCoolTicTacToe5
 
         void Init()
         {
-            //krjgehbhavn
+            
         }
 
         void ShowBoard()
