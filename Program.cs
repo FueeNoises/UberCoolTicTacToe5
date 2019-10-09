@@ -31,14 +31,17 @@ namespace UberCoolTicTacToe5
 
         void Init()
         {
+            //krjgehbhavn
         }
 
         void ShowBoard()
         {
+
         }
 
         void GetMove()
         {
+
         }
 
         void CheckForWinner()
